@@ -1,5 +1,6 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Stories in Ready](https://badge.waffle.io/zhukov/webogram.png?label=ready&title=Ready)](https://waffle.io/zhukov/webogram)
+[![Code Climate](https://codeclimate.com/github/delftswa2017/telegram-web/badges/gpa.svg)](https://codeclimate.com/github/delftswa2017/telegram-web)
 
 ## [Webogram](https://web.telegram.org) — Telegram Web App
 
