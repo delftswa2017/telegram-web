@@ -31,3 +31,4 @@ exclude_paths:
 - test/
 - app/vendor/
 - app/js/lib/
+- scripts/
