@@ -5,6 +5,8 @@
  * https://github.com/zhukov/webogram/blob/master/LICENSE
  */
 
+/* global Config, templateUrl */
+
 'use strict'
 
 var extraModules = []
